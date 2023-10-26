@@ -16,7 +16,7 @@ h1,h2,h3 {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', san
     color: #ffff;
     text-decoration: none;
     padding: 10px 30px;
-    background-color: #1f1fa8;
+    background-color:  #8a1971;
     font-size: .9em;
     border-radius: 5px;
 
@@ -38,7 +38,7 @@ nav {
     align-items: center;
 }
 nav h2{
-    color: #1f1fa8;
+    color:  #8a1971;
     text-align: center;
     font-family: 'LobsterTwo-Italic';
   
@@ -73,14 +73,14 @@ nav ul li a {
     color: #ffff;
     font-family: 'roboto';
     font-size: large;
-    background-color: #1f1fa8;
+    background-color:  #8a1971;
     border-radius: 5px;
     
     
     
 }
 li :hover{
-    background: #1d92f1;
+    background:  #8a1971;
     color: #000;
 }
 
@@ -88,8 +88,8 @@ header {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #0000ff;
-    background: linear-gradient(#ffff, #800080, #7ccdf3);
+    background-color:  #8a1971;
+    background: linear-gradient(#ffff, #dc91eb, #b421ad);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -144,7 +144,7 @@ header p {
 
 #serviços div{
    
-    background: linear-gradient(#ffff, #993399, #7ccdf3);
+    background: linear-gradient(#ffff, #dc91eb, #b421ad);
     align-items: center;
     text-align: center;
     margin-top:30px ;
@@ -224,7 +224,7 @@ section h4{
     margin-top: 10px;
 }
 footer {
-    background: linear-gradient(#ffff, #1d92f1, #7ccdf3);
+    background: linear-gradient(#ffff, #dc91eb, #b421ad);
     text-align: center;
     padding: 10px;
 
@@ -233,7 +233,7 @@ footer {
 
 footer a {
     text-decoration: none;
-    color: #1d92f1;
+    color: #8a1971;
     margin-top: 2em;
 }
 footer p{
